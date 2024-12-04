@@ -1,0 +1,16 @@
+{
+    "ERP System": "ERP System",
+    "Login": "Login",
+    "Register": "Register",
+    "Username": "Username",
+    "Password": "Password",
+    "Confirm Password": "Confirm Password",
+    "Role": "Role",
+    "Permissions (comma-separated)": "Permissions (comma-separated)",
+    "Inventory": "Inventory",
+    "Billing": "Billing",
+    "Purchase": "Purchase",
+    "Sales": "Sales",
+    "User Management": "User Management",
+    "Charts": "Charts"
+}

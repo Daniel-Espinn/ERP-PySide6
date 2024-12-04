@@ -1,0 +1,16 @@
+{
+    "ERP System": "Sistema ERP",
+    "Login": "Iniciar Sesión",
+    "Register": "Registrarse",
+    "Username": "Nombre de Usuario",
+    "Password": "Contraseña",
+    "Confirm Password": "Confirmar Contraseña",
+    "Role": "Rol",
+    "Permissions (comma-separated)": "Permisos (separados por comas)",
+    "Inventory": "Inventario",
+    "Billing": "Facturación",
+    "Purchase": "Compras",
+    "Sales": "Ventas",
+    "User Management": "Gestión de Usuarios",
+    "Charts": "Gráficos"
+}
